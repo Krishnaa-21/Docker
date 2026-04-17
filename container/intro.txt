@@ -16,6 +16,6 @@ Runtime (Python, Node, etc.)
 👉 Think of container like a tiffin/lunchbox 🍱
 
 Food = your app
-Ingredients = dependencies
+Ingredients = dependencies.
 
-👉 Everything packed → works anywhere → same result
+👉 Everything packed → works anywhere → same result .
