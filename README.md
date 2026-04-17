@@ -5,4 +5,4 @@ A structured and beginner-friendly guide to understanding Docker, containerizati
 📌 About
 
 This repository contains notes, concepts, and examples related to Docker.
-It is designed to help understand how containers work and how Docker is used in real-world development and deployment.
+It is designed to help understand how containers work and how Docker is used in real-world development and deployment  .
