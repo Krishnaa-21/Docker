@@ -1,0 +1,21 @@
+🐳 What is a Container (in Docker)?
+
+👉 A container is a lightweight, isolated environment where your application runs.
+
+👉 It includes:
+
+Your code
+Required libraries
+Runtime (Python, Node, etc.)
+🧠 Simple Definition
+
+👉 “Container = ready-to-run package of an application”
+
+💡 Easy Analogy
+
+👉 Think of container like a tiffin/lunchbox 🍱
+
+Food = your app
+Ingredients = dependencies
+
+👉 Everything packed → works anywhere → same result
