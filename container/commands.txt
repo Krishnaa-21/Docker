@@ -21,3 +21,26 @@ docker ps
 👉 Shows all containers (running + stopped).
 
 docker ps -a
+
+4️⃣ docker stop
+
+👉 Stops a running container.
+
+Syntax:
+
+docker stop <container_id>
+5️⃣ docker start
+
+👉 Starts a stopped container.
+
+docker start <container_id>
+6️⃣ docker restart
+
+👉 Restart container.
+
+docker restart <container_id>
+7️⃣ docker rm
+
+👉 Removes a container.
+
+docker rm <container_id>
