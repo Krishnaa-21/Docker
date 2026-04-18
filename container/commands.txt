@@ -1,0 +1,23 @@
+1️⃣ docker run
+
+👉 Creates + starts a container from an image.
+
+Syntax:
+
+docker run [options] <image>
+
+Example:
+
+docker run hello-world
+2️⃣ docker ps
+
+👉 Shows running containers.
+
+Syntax:
+
+docker ps
+3️⃣ docker ps -a
+
+👉 Shows all containers (running + stopped).
+
+docker ps -a
