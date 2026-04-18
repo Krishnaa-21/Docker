@@ -44,3 +44,25 @@ docker restart <container_id>
 👉 Removes a container.
 
 docker rm <container_id>
+
+8️⃣ docker exec
+
+👉 Runs command inside running container.
+
+Syntax:
+
+docker exec -it <container_id> <command>
+
+Example:
+
+docker exec -it mycontainer bash
+9️⃣ docker logs
+
+👉 Shows container logs.
+
+docker logs <container_id>
+🔟 docker inspect
+
+👉 Detailed info about container.
+
+docker inspect <container_id>
