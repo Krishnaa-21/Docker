@@ -4,7 +4,7 @@
 
 👉 It contains:
 
-Application code
+Application code:
 Libraries & dependencies
 Runtime (Python, Node, etc.)
 System tools
