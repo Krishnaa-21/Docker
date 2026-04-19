@@ -1,0 +1,29 @@
+🐳 What is an Image in Docker?
+
+👉 A Docker Image is a read-only template (blueprint) used to create containers.
+
+👉 It contains:
+
+Application code
+Libraries & dependencies
+Runtime (Python, Node, etc.)
+System tools
+🧠 Simple Definition
+
+👉 “Image = blueprint from which containers are created”
+
+💡 Easy Analogy
+
+👉 Image = recipe 📄
+👉 Container = prepared food 🍲
+
+Recipe stays same
+You can cook multiple times
+⚙️ How Image Works
+
+👉 You build an image once
+👉 Then create multiple containers from it
+
+Image → Container 1
+      → Container 2
+      → Container 3
