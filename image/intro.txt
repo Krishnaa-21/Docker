@@ -13,7 +13,6 @@ System tools
 👉 “Image = blueprint from which containers are created”
 
 💡 Easy Analogy
-
 👉 Image = recipe 📄
 👉 Container = prepared food 🍲
 
