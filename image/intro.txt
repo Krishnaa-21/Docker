@@ -26,3 +26,79 @@ You can cook multiple times
 Image → Container 1
       → Container 2
       → Container 3
+
+3
+🔑 Key Characteristics
+1️⃣ Read-only
+
+👉 Image cannot change while running
+👉 Changes happen in container
+
+2️⃣ Reusable
+
+👉 One image → many containers
+
+3️⃣ Portable
+
+👉 Can run anywhere:
+
+Laptop
+Server
+Cloud
+4️⃣ Layer-based (IMPORTANT 🔥)
+
+👉 Image is made of layers:
+
+OS layer
+Dependency layer
+App layer
+
+👉 This makes it:
+
+Fast
+Efficient
+🔥 Image vs Container (Quick)
+Feature	Image	Container
+Type	Blueprint	Running instance
+State	Static	Dynamic
+Change	No	Yes
+Example	Recipe	Food
+🌍 Real-World Use
+
+👉 Developers:
+
+Create image once
+Share with team
+
+👉 DevOps:
+
+Deploy same image everywhere
+
+👉 Companies:
+
+Store images in registries (like Docker Hub)
+🎯 Real Example
+
+👉 Suppose:
+
+You build a Node.js app
+
+👉 Image contains:
+
+Node.js
+App code
+Dependencies
+
+👉 From that image:
+
+You run container → app starts instantly
+🔥 Why Images are IMPORTANT
+Ensure consistency
+Easy deployment
+Faster builds
+Reproducible environments
+🚀 Final Summary
+
+👉 Image = base template (blueprint)
+👉 Container = running app from that image
+👉 Without image → no container
