@@ -1,0 +1,19 @@
+🐳 Docker Image Commands
+1️⃣ docker images
+
+👉 Lists all images on your system.
+
+Syntax:
+
+docker images
+2️⃣ docker pull
+
+👉 Downloads image from registry (like Docker Hub).
+
+Syntax:
+
+docker pull <image>
+
+Example:
+
+docker pull nginx
