@@ -40,3 +40,79 @@ docker rmi <image>
 Example:
 
 docker rmi nginx
+
+5️⃣ docker tag
+
+👉 Tags (rename/version) an image.
+
+Syntax:
+
+docker tag <image> <new-name>
+
+Example:
+
+docker tag myapp myapp:v1
+6️⃣ docker push
+
+👉 Upload image to registry.
+
+Syntax:
+
+docker push <image>
+7️⃣ docker inspect
+
+👉 Shows detailed image info.
+
+Syntax:
+
+docker inspect <image>
+8️⃣ docker history
+
+👉 Shows image layers history.
+
+Syntax:
+
+docker history <image>
+9️⃣ docker save
+
+👉 Saves image as file (backup).
+
+Syntax:
+
+docker save -o file.tar <image>
+🔟 docker load
+
+👉 Loads image from file.
+
+Syntax:
+
+docker load -i file.tar
+1️⃣1️⃣ docker search
+
+👉 Searches images on Docker Hub.
+
+Syntax:
+
+docker search <name>
+1️⃣2️⃣ docker image prune
+
+👉 Removes unused images.
+
+Syntax:
+
+docker image prune
+1️⃣3️⃣ docker image ls
+
+👉 Same as docker images.
+
+docker image ls
+1️⃣4️⃣ docker image rm
+
+👉 Same as docker rmi.
+
+docker image rm <image>
+1️⃣5️⃣ docker image inspect
+
+👉 Same as inspect but explicit.
+
+docker image inspect <image>
