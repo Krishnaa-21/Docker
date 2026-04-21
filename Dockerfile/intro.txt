@@ -9,3 +9,6 @@ Execution behavior
 
 👉 In simple terms:
 Dockerfile = instructions to build an image
+
+⚙️ Workflow
+Dockerfile → Image → Container
