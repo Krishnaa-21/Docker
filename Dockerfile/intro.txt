@@ -1,0 +1,11 @@
+A Dockerfile is a text-based configuration file used to automate the process of building Docker images.
+
+It defines:
+
+Base environment
+Dependencies
+Application setup
+Execution behavior
+
+👉 In simple terms:
+Dockerfile = instructions to build an image
