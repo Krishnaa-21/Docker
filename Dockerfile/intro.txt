@@ -20,3 +20,8 @@ Layer-based architecture
 Ensures consistent environments
 Used in DevOps, CI/CD, and cloud deployments
 
+💡 Why it is used
+> Automates environment setup
+> Eliminates manual configuration
+> Ensures reproducibility
+> Makes deployment faster and reliable
