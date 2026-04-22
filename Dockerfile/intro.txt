@@ -10,5 +10,13 @@ Execution behavior
 👉 In simple terms:
 Dockerfile = instructions to build an image
 
+<<<<<<< HEAD
 ⚙️ Workflow
 Dockerfile → Image → Container
+=======
+🔑 Key Points
+Declarative (step-by-step instructions)
+Layer-based architecture
+Ensures consistent environments
+Used in DevOps, CI/CD, and cloud deployments
+>>>>>>> 8ca8d5b2690d1250747d899da5faf241125708df
