@@ -14,3 +14,19 @@ COPY
 👉 Copies files to container
 
 COPY . .
+
+ADD
+
+👉 Similar to COPY (extra features like URL, tar)
+
+ADD file.tar /app/
+RUN
+
+👉 Executes commands during build
+
+RUN pip install -r requirements.txt
+CMD
+
+👉 Default command to run container
+
+CMD ["python", "app.py"]
