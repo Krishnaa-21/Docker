@@ -42,3 +42,9 @@ EXPOSE
 👉 Defines port
 
 EXPOSE 5000
+
+ENV
+
+👉 Sets environment variables
+
+ENV APP_ENV=production
