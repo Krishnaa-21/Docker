@@ -36,3 +36,9 @@ ENTRYPOINT
 👉 Main executable
 
 ENTRYPOINT ["python"]
+
+EXPOSE
+
+👉 Defines port
+
+EXPOSE 5000
