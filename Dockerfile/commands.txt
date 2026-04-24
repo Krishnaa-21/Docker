@@ -30,3 +30,9 @@ CMD
 👉 Default command to run container
 
 CMD ["python", "app.py"]
+
+ENTRYPOINT
+
+👉 Main executable
+
+ENTRYPOINT ["python"]
