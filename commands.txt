@@ -1,0 +1,14 @@
+🐳 Docker Compose Commands
+1️⃣ docker compose up
+
+👉 Starts all services defined in docker-compose.yml
+
+Syntax:
+
+docker compose up
+
+Example:
+
+docker compose up
+
+👉 Runs containers together
