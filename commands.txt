@@ -11,4 +11,10 @@ Example:
 
 docker compose up
 
-👉 Runs containers together
+👉 Runs containers together2️⃣ docker compose up -d
+
+👉 Runs services in background (detached mode)
+
+docker compose up -d
+
+
